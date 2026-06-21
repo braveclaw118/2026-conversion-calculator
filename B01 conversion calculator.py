@@ -1,21 +1,34 @@
 mass_dict = {
     "mg" : 1000,
+    "milligram": 1000,
     "g" : 1,
-    "kg" : 0.001
+    "gram": 1,
+    "kg": 0.001,
+    "kilogram": 0.001,
+    "kilo": 0.001
 }
 
 time_dict = {
-    "s" : 86400,
-    "m" : 1440,
-    "h" : 24,
-    "d" : 1
+    "s": 86400,
+    "second": 86400,
+    "m": 1440,
+    "minute" : 1440,
+    "min": 1440,
+    "h": 24,
+    "hour": 24,
+    "d": 1,
+    "day": 1
 }
 
 distance_dict = {
     "mm" : 1000,
+    "millimeter" : 1000,
     "cm" : 100,
+    "centimeter" : 100,
     "m" : 1,
-    "km" : 0.001
+    "meter": 1,
+    "km" : 0.001,
+    "kilometer" : 0.001
 }
 
 
